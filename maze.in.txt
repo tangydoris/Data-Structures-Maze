@@ -1,0 +1,8 @@
+3 3
+xxxxxxxxoxxxxxxxx
+x        x xx x o
+x xxxxxx x      x
+x x      x xxxxxx
+x xx xxx x x    x
+x            xx x
+xxxxxxxxxxxxxxxox
